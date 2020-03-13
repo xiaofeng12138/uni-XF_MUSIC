@@ -1,0 +1,51 @@
+{
+  "id": "1640697",
+  "name": "uni-wyy",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7643",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1149403",
+      "name": "排行榜",
+      "font_class": "paixingbang",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "8654653",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "11391497",
+      "name": "电台",
+      "font_class": "diantai",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11391498",
+      "name": "歌单",
+      "font_class": "gedan",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "11520120",
+      "name": "直播",
+      "font_class": "zhibo",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    }
+  ]
+}
